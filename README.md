@@ -24,5 +24,6 @@ The CRMMS includes the ability to generate probabilistic fan charts for the next
 Users can run the CRMMS by providing the necessary input data and parameters. The model uses a series of calculations to determine the inflows, outflows, and water levels of upstream and downstream reservoirs, as well as the total flow of the Colorado River for each month of the study period. The output data can then be used to inform decision-making and policy development regarding the management of the Colorado River.
 
 ## Conclusion: 
-Notice: It's a WIP
-The Colorado River Mid-term Modeling System (CRMMS) is a tool for water resource managers and policymakers to simulate the behavior of the Colorado River over a 24-month study period. By providing insights into the river's behavior under different scenarios, the model can help inform decision-making and policy development to ensure the sustainable management of this vital resource.
+Notice: It's a WIP so there is a lot of missing information as of now.
+
+The Colorado River Mid-term Modeling System (CRMMS) is a tool for water resource managers and policymakers to simulate the behavior of the Colorado River over a 24-month study period. 
