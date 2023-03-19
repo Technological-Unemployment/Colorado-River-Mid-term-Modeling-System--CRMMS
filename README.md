@@ -1,6 +1,6 @@
 # Colorado River Mid-term Modeling System (CRMMS)
 
-##Introduction: 
+## Introduction: 
 The Colorado River Mid-term Modeling System (CRMMS) is a software model designed to simulate the behavior of the Colorado River over a 24-month study period. The model is intended to provide valuable insights for water resource managers and policymakers in effectively managing the Colorado River's water resources.
 
 ## Input Data: 
